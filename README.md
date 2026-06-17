@@ -1,16 +1,26 @@
-## Hi there 👋
+# こんにちは、カワマタ　ユウヘイ です 👋
 
-<!--
-**yuhei-kawamata/yuhei-kawamata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+COACHTECH でフルスタックWeb開発を学習中して、Webアプリ開発エンジニアを目指しています。
+自分の手で、皆さんの困りごとを少しでも解決できるようなサービスを作ることに興味があります。
 
-Here are some ideas to get you started:
+## 🛠️ 使える技術
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **バックエンド**: PHP / Laravel
+- **フロントエンド**: HTML5 / CSS / Blade
+- **データベース**: MySQL
+- **その他**: Docker / Git・GitHub
+
+## 📂 学習成果物
+
+COACHTECH 教材のハンズオンで作成したリポジトリです。
+
+- [task-api-practice](https://github.com/yuhei-kawamata/task-api-practice) — タスク管理APIのCRUD実装（Laravel + REST API）
+- [auth-app-practice](https://github.com/yuhei-kawamata/auth-app-practice) — 認証機能の実装（Laravel Fortify）
+- [self-introduction-practice](https://github.com/yuhei-kawamata/self-introduction-practice) — 自己紹介ページ（HTML5）
+  
+
+## 🌱 これから挑戦したいこと
+
+
+## 📫 連絡先・リンク
+
